@@ -165,7 +165,7 @@ class Test():
 
     def file(self) -> None:
 
-        cookie = 'lang=id; ndus=Yup9SLkpeHuiUZ3F6c7EBJhVp_HOO1N-TewUSukc;'
+        cookie = 'lang=id; ndus=YuswNL1peHui9vE0I_uiITsyTgzChUSMaffwsKYC;'
 
         # url = 'https://1024terabox.com/s/1eBHBOzcEI-VpUGA_xIcGQg' #-> Test File Besar
         url = 'https://terasharelink.com/s/1QHHiN_C2wyDbckF_V3ssIw' #-> Test File All Format (Video, Gambar)
