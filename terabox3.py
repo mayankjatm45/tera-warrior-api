@@ -182,8 +182,8 @@ class Test():
         shareid   = '21362218376'
 
         #--> Fatal
-        timestamp = '1744108146'
-        sign      = '19c818a0e01ad8d0131cadfe6892bc73620fbaf7'
+        timestamp = '1754551077'
+        sign      = '32bc35d4-1954-49d9-ac0d-7a047b6dea2cf9d4da'
 
         TL = TeraboxLink(shareid, uk, sign, timestamp, fs_id)
         TL.generate()
